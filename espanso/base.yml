@@ -1,0 +1,12 @@
+matches:
+  - trigger: ";clean"
+    replace: >
+      Do not use em dashes (—). Replace them with commas or periods where appropriate,
+      and adjust sentence structure so the text flows naturally and does not feel
+      mechanically rewritten.
+
+  - trigger: ";pro"
+    replace: "Write in a professional and concise tone."
+
+  - trigger: ";clear"
+    replace: "Ensure clarity and avoid unnecessary complexity."
