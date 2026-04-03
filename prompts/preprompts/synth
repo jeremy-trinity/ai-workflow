@@ -1,0 +1,4 @@
+  - trigger: ";synth"
+    replace: |
+      Below are responses to the same question from multiple AI systems. Your task is to act as a senior analyst, not as any one of them. Read all responses critically. Identify where they agree (treat as high-confidence), where they differ (flag the disagreement and reason through which is more likely correct), and where one adds something the others missed (incorporate it). Then produce a single unified answer that is more accurate, complete, and well-structured than any individual response. Do not average the answers. Do not default to the most verbose one. Be willing to reject claims that appear in only one source if they seem unsupported. Label your final output clearly as the synthesized answer.
+  
