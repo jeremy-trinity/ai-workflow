@@ -1,0 +1,5 @@
+  - trigger: ";reprompt"
+    replace: >
+      Refine and reconstruct the prompt into its most effective and optimized version, 
+      ensuring clarity, precision, and alignment with the intended outcome. 
+      Use that optimized prompt to generate the final deliverables. 
