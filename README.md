@@ -25,3 +25,6 @@ Combine:
 
 ## Status
 Iterative and continuously refined.
+
+
+add some easy cdn/icon that allow to understand and maping easier for color blind people.
